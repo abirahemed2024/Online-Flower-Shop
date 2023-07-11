@@ -226,3 +226,31 @@ input{
     font-size: 18px;
 }
 /*Input section end */
+
+/*footer section start*/
+footer{
+    background: #272727;
+    color: #fff;
+}
+.footer{
+    padding: 80px 0;
+    text-align: center;
+}
+.footer-dis{
+    line-height: 30px;
+    color: rgba(255, 255, 255, 0.90);
+}
+.footer-title{
+    font-size: 40px;
+    margin-bottom: 20px;
+    color: #fff;
+}
+.footer-title span{
+    color: #E55473;
+}
+.copy-right{
+    color: rgba(255, 255, 255, 0.40); 
+    font-size: 16px;
+    margin-top: 30px;
+}
+/*footer section end*/
