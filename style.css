@@ -226,7 +226,43 @@ input{
     font-size: 18px;
 }
 /*Input section end */
+/*Team section start*/
+.teams{
+    margin: 80px 9%;
+}
+.team-info{
+    text-align: center;
+}
+.team-dis{
+    line-height: 30px;
+    margin-bottom: 50px;
+}
+.team-title{
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+.members{
+    display: flex;
+    gap: 30px;
 
+}
+.member{
+    background: #f6f4f9;
+    padding: 25px;
+    text-align: center;
+    border-radius: 8px;
+}
+.member h3{
+    font-size: 26px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.member img{
+    width: 100%;
+    border-radius: 50%;
+}
+/*Team section end*/
 /*footer section start*/
 footer{
     background: #272727;
